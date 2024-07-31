@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <h1>Hello</h1>
-      <Stars />
+      <h2>World</h2>
     </main>
   );
 }
